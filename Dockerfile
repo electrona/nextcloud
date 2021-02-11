@@ -1,4 +1,4 @@
-FROM nextcloud:latest
+FROM nextcloud:20.0.7
 
 RUN set -ex; \
     \
