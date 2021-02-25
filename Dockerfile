@@ -60,4 +60,3 @@ ENV NEXTCLOUD_UPDATE=1
 
 CMD ["/usr/bin/supervisord", "-c", "/supervisord.conf"]
 
-# This is a comment to change the file. This line can be deleted.
