@@ -2,6 +2,9 @@
 
 ## Changelog
 
+- **02/03/2021**
+	- Sync with official nextcloud
+
 - **25/02/2021**
 	- Code cleanup
 
