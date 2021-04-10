@@ -2,6 +2,9 @@
 
 ## Changelog
 
+- **09/04/2021**
+	- Upgrade to 21.0.1
+
 - **02/04/2021**
 	- Sync with official nextcloud
 
